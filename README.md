@@ -1,7 +1,20 @@
 README
 ------
 
-Template repository for hardware design projects, using KiCAD and FreeCAD.
+This repository contains various CAD models for 3D printing:
+* `Bike`: Parts and accessories for bicycles
+  * Cover for Cateye rear lights, to prevent it being turned on while carrying in a bag
+* `Garden`: Various parts around the garden
+  * Gardena MultiControl cover
+  * Cover for a sun umbrella mount
+* `Pool`: Parts and accessories for Intex pools
+  * Mount for Intex skimmers
+  * Pool inlet nozzles
+  * Pool fountain inlet
+  * Parts for solar heaters
+* `Workshop`: Parts and holders for the workshop
+  * Holder for Makita polecutters
+  * Holder for Einhell vacuum cleaners
 
 
 License
